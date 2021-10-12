@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "../node_modules",
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "types": ["cypress", "cypress-real-events"],
+    "jsx": "react-jsx"
+  },
+  "include": ["**/*.ts"]
+}
