@@ -53,4 +53,4 @@ this is the recommended approach by cypress
 - **src/components** contains all reusable components and containers. Every component folder has the component file named as `index.tsx` and a folder `__tests__` which contains tests for that individual component.
 - **src/redux** folder contains everything related to the redux store, each reducer and saga has tests in the dedicated `__tests__` folder
 - **src/pages** contains the pages of the application
-- **src/types**
+- **src/types** contains types for various data objects
